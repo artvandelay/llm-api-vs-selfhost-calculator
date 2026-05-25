@@ -1,4 +1,12 @@
-# API vs Self-Host LLM Cost Calculator
+# [DEPRECATED] API vs Self-Host LLM Cost Calculator
+
+> **This project has moved to [`artvandelay/should-i-self-host-llm`](https://github.com/artvandelay/should-i-self-host-llm).**
+>
+> **Live calculator: <https://artvandelay.github.io/should-i-self-host-llm/>**
+>
+> The new repo is a strict superset: live pricing from [models.dev](https://models.dev) on every page load, nightly GPU price refresh via GitHub Action + Firecrawl, searchable model picker (~150 models, ~500 open-weight models), VRAM overhead that auto-scales with model size, and a deployed live demo. This repo is archived and frozen at its last static-pricing version for reference.
+
+---
 
 https://artvandelay.github.io/llm-api-vs-selfhost-calculator/
 
