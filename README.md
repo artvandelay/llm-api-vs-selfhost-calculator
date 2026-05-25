@@ -1,5 +1,7 @@
 # API vs Self-Host LLM Cost Calculator
 
+https://artvandelay.github.io/llm-api-vs-selfhost-calculator/
+
 Given your traffic and the API price you'd pay today, this calculator finds the
 **largest open-weight model you could self-host for the same cost or less** — and
 also surfaces the cheapest viable tier in case you want to optimize for spend
